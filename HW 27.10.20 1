@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Резюме</title>
+</head>
+<body>
+    <table>
+
+        <caption>Октябрь 2020</caption>
+
+        <tr>
+            <th> </th>
+            <th><strong>Пн</strong></th>
+            <th><strong>Вт</strong></th>
+            <th><strong>Ср</strong></th>
+            <th><strong>Чт</strong></th>
+            <th><strong>Пт</strong></th>
+            <th><strong>Сб</strong></th>
+            <th><strong>Вс</strong></th>
+        </tr>
+
+        <tr>
+            <td><strong>01</strong></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><s>1</s></td>
+            <td><s>2</s></td>
+            <td><strong><s>3</s></strong></td>
+            <td><strong><s>4</s></strong></td>
+        </tr>
+
+        <tr>
+            <td><strong>02</strong></td>
+            <td><s>5</s></td>
+            <td><s>6</s></td>
+            <td><s>7</s></td>
+            <td><s>8</s></td>
+            <td><s>9</s></td>
+            <td><strong><s>10</s></strong></td>
+            <td><strong><s>11</s></strong></td>
+        </tr>
+
+        <tr>
+            <td><strong>03</strong></td>
+            <td><s>12</s></td>
+            <td><s>13</s></td>
+            <td><s>14</s></td>
+            <td><s>15</s></td>
+            <td><s>16</s></td>
+            <td><strong><s>17</s></strong></td>
+            <td><strong><s>18</s></strong></td>
+        </tr>
+
+        <tr>
+            <td><strong>04</strong></td>
+            <td><s>19</s></td>
+            <td><s>20</s></td>
+            <td><s>21</s></td>
+            <td><s>22</s></td>
+            <td><s>23</s></td>
+            <td><strong><s>24</s></strong></td>
+            <td><strong><s>25</s></strong></td>
+        </tr>
+
+        <tr>
+            <td><strong>05</strong></td>
+            <td><mark>26</mark></td>
+            <td>27</td>
+            <td>28</td>
+            <td>29</td>
+            <td>30</td>
+            <td><strong>31</strong></td>
+            <td></td>
+        </tr>
+
+    </table>
+
+</body>
+</html>
